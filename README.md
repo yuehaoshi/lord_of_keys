@@ -2,6 +2,7 @@
 UIUC_CS498GD_MP2
 
 Demostration Video:
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pVfAdteVubo/hqdefault.jpg)](https://youtu.be/pVfAdteVubo)
 
 The basic logic of this game is that player need to collect six pieces of keys to win. During this process, there are four types of enemies in different locations of the level. The player has 100 points of health and will be harmed when collides with enemies, or hits by enemies’ projectiles. When the health is deducted to zero or player is falling off the map, the game is over, and a restart button will show on the screen. The player can also attack enemies by shooting to them. The shooting direction is set by both the player character’s forward direction and the screen camera’s direction, in this way the bullet will be in a controllable direction by the player with left click on the mouse. The two types of movement of the player is walking and flying, which can be shifted by press the space on keyboard.
