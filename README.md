@@ -1,7 +1,6 @@
 # The Lord of the Keys
-UIUC_CS498GD_MP2
 
-Demostration Video:
+## Demostration Video:
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pVfAdteVubo/hqdefault.jpg)](https://youtu.be/pVfAdteVubo)
 
