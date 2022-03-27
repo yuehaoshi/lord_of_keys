@@ -4,6 +4,9 @@
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pVfAdteVubo/hqdefault.jpg)](https://youtu.be/pVfAdteVubo)
 
+## Download Link: https://drive.google.com/file/d/1sVebOAO6ponGiIT8Mjz_SGEJfr8o88Kt/view?usp=sharing
+Unzip the folder and install by clicking the .exe file in Windows! (MacOS and other versions are still in progress..)
+
 The basic logic of this game is that player need to collect six pieces of keys to win. During this process, there are four types of enemies in different locations of the level. The player has 100 points of health and will be harmed when collides with enemies, or hits by enemies’ projectiles. When the health is deducted to zero or player is falling off the map, the game is over, and a restart button will show on the screen. The player can also attack enemies by shooting to them. The shooting direction is set by both the player character’s forward direction and the screen camera’s direction, in this way the bullet will be in a controllable direction by the player with left click on the mouse. The two types of movement of the player is walking and flying, which can be shifted by press the space on keyboard.
 
 There are four types of enemies, the first type is pursuer, which is having a routine to patrol around the map and run fast at the player once player is in their sight. On collision with pursuer, the player will be impulse back for a distance and get health deducted. The second type is flyer, which will fly above the player while on sight and shoot to the lead direction of the player to make player’s moving forward dangerous. The third type is mortar, which is unmoving but shoot big bullet to the sky randomly and cause explosion. Once hit by the explosion, the player will have health deducted. If player is in the mortar’s sigh, the mortar will shoot towards player’s direction. The last type of enemy is the emitters, which will patrol randomly and shoot bullets in all directions while seeing the player. 
